@@ -8,7 +8,7 @@ Built for reverse-engineering live RS485 systems — captures every frame, valid
 ## Requirements
 
 ```bash
-pip install pyserial
+pipx install pyserial
 ```
 
 Python 3.10 or newer.
